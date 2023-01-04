@@ -1,0 +1,34 @@
+{
+    "Joe Schmoe" : {
+        "Quest One": {
+            "Name" : "First Time!",
+            "Disc" : "Buy, Grow, and Sell your first strain of weed.",
+            "Reward" : "Unlock Index, Unlock 5 farm slots",
+            "EXP" : 10
+        },
+        "Quest Two" : {
+            "Name" : "Noob Grower",
+            "Disc" : "Discover 5 strains of weed",
+            "Reward" : "Silver Weed Strain",
+            "EXP" : 30
+        },
+        "Quest Three" : {
+            "Name" : "Good Grower",
+            "Disc" : "Discover 10 strains of weed",
+            "Reward" : "Gold Weed Strain",
+            "EXP" : 30
+        },
+        "Quest Four" : {
+            "Name" : "Expert Grower",
+            "Disc" : "Discover 15 strains of weed",
+            "Reward" : "Diamond Weed Strain",
+            "EXP" : 30
+        },
+        "Quest Five" : {
+            "Name" : "Ultimate Grower",
+            "Disc" : "Discover 20 strains of weed",
+            "Reward" : "Platinum Weed Strain",
+            "EXP" : 30
+        }
+    }
+}
